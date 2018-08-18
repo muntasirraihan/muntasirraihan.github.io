@@ -1,0 +1,69 @@
+# jemdoc: addcss{person.css}, showsource
+= Muntasir Raihan Rahman
+
+~~~
+{}{img_left}{muntasir.jpg}{Muntasir Raihan Rahman}
+Research Scientist, [https://www.bell-labs.com/ Nokia Bell Labs] \n
+(Formerly) [https://azure.microsoft.com/ Microsoft Azure R&D]\n
+(Formerly) [https://cs.illinois.edu/ Department of Computer Science],  [https://illinois.edu/ University of Illinois Urbana Champaign]\n\n
+Former PhD advisor: [http://indy.cs.illinois.edu/ Professor Indranil Gupta] \n
+[ Google Scholar Page]
+~~~
+
+== Contact
+[muntasir.rahman@nokia-bell-labs.com] \n
+[muntasir.raihan@gmail.com]
+
+== Research
+- Distributed Systems and Distributed Computing Theory
+- Machine Learning Based Computer Systems Management
+- Distributed SDN Control and Optimization
+- Modeling and Verification of Distributed Protocols and Networks
+
+== Software
+- [http://dprg.cs.uiuc.edu/traces/go.php?id=24 OPTiC] is a multi-tenant extension of Apache Giraph for opportunistic graph processing on Apache YARN multi-tenant clusters
+- [http://dprg.cs.uiuc.edu/traces/go.php?id=25 PCAP Cassandra] is an adaptive extension of Apache Cassandra for meeting novel probabilistic consistency and latency SLAs for distributed key-value stores 
+- [http://dprg.cs.uiuc.edu/traces/go.php?id=26 PCAP Riak] is an adaptive extension of Basho Riak for meeting novel probabilistic consistency and latency SLAs for distributed key-value stores 
+
+== Papers
+- [https://scholar.google.com/citations?user=Z3hzieoAAAAJ&hl=en Google Scholar]
+- [https://dblp.uni-trier.de/pers/hd/r/Rahman:Muntasir_Raihan DBLP]
+
+== Talks
+- Conference Presentation, OPTiC: Opportunistic Graph Processing for Multi-tenant Clusters, [http://conferences.computer.org/IC2E/2018/ IC2E 2018]
+- Invited Talk, Towards Predictable Cloud Systems, Nokia Bell Labs, Host: [https://www.bell-labs.com/usr/marina.thottan Marina Thottan]
+- Invited Talk, Characterizing and Adapting the Consistency-Latency Tradeoffs in Distributed Key-value Stores [https://sites.google.com/site/scndsworkshop/ SCNDS], November 2017.
+- Workshop Presentation, Software-defined Consistency Group Abstractions for Virtual machines, [https://www.podc.org/dcc2016/ PODC DCC Workshop] 2016
+- Invited Talk, Making Cloud Systems Predictable, John Hopkins University, Host: [http://www.cs.jhu.edu/~yairamir/ Professor Yair Amir]
+- Invited Talk, Making Cloud Systems Predictable, IBM Thomas J. Watson Research Center
+- Invited Talk, Making Cloud Systems Predictable, IBM Research Austin 
+
+== Awards
+- Best Paper Award, [http://conferences.computer.org/IC2E/2018/ IC2E 2018]
+- [https://labs.vmware.com/academic/vmware-2014-2015-graduate-fellowships VMware Graduate Fellowship]
+- CS Excellence Fellowship, UIUC
+- Feng Chen Memorial Award, UIUC
+- Best Paper Award, [http://icac2015.imag.fr/ ICAC 2015]
+- Cheriton Graduate Fellowship, University of Waterloo
+
+
+== Professional Service
+=== TPC member for:
+- [http://2018.issre.net/industry-pc ISSRE 2018 Industry Track]
+- [https://sites.google.com/site/scndsworkshop/ SCNDS 2017]
+- [https://sites.google.com/site/scnds2018/ SCNDS 2018] \n
+=== Session Chair for:
+- Edge Computing and Storage, [http://conferences.computer.org/IC2E/2018/ IC2E 2018] \n
+=== Web and Publication Chair for:
+- Distributed Computing: Mixing Systems and Theory (DeMiST) 2016, workshop co-located with [https://www.podc.org/podc2016/ PODC 2016]
+
+
+== Education
+- Ph.D., [https://cs.illinois.edu/ Computer Science], [https://illinois.edu/ University of Illinois Urbana Champaign],
+  2016
+- M.Math., [https://cs.uwaterloo.ca/ Computer Science], [https://uwaterloo.ca/ University of Waterloo],
+  2010
+- B.Sc. in Engineering (Hons) (First class), [http://cse.buet.ac.bd/ Computer Science and Engineering],
+  [http://www.buet.ac.bd/ Bangladesh University of Engineering and Technology (BUET)], 2007
+
+
